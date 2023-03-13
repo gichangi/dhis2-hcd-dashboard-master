@@ -1,0 +1,68 @@
+{
+  "name": "gcd-dashboard",
+  "author": "HealthIT",
+  "email": "info@healthit.uonbi.ac.ke",
+  "licence": "GPT",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "install-server": "cd server && npm install",
+    "start-server": "cd server && npm run dev",
+    "install-all": "concurrently \"npm install\" \"cd server && npm install\"",
+    "start-all": "concurrently \"PORT=8888 npm start\" \"npm run start-server\"",
+    "start": "react-scripts start",
+    "start-prod": "env REACT_APP_ENV=production PORT=3000 react-scripts start",
+    "build": "env REACT_APP_ENV=production react-scripts build",
+    "build-dev": "env REACT_APP_ENV=dev react-scripts build && mv build buildev",
+    "serve-dev": "cd buildev && live-server --port=8888",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:3000",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "@compeon/monthpicker": "^0.4.13",
+    "@material-ui/core": "^4.2.1",
+    "@material-ui/icons": "^4.2.1",
+    "@material-ui/lab": "^4.0.0-alpha.41",
+    "@material-ui/styles": "^4.2.1",
+    "clsx": "^1.0.4",
+    "dotenv": "^8.2.0",
+    "hcd-config": "file:config",
+    "highcharts": "^9.0.0",
+    "highcharts-react-official": "^2.2.0",
+    "history": "^4.9.0",
+    "leaflet": "^1.7.1",
+    "moment": "^2.24.0",
+    "mui-datatables": "^2.14.0",
+    "prop-types": "^15.7.2",
+    "query-string": "^6.11.0",
+    "react": "^16.8.6",
+    "react-chartjs-2": "^2.7.6",
+    "react-dom": "^16.8.6",
+    "react-highcharts": "^6.0.0",
+    "react-leaflet": "^3.1.0",
+    "react-perfect-scrollbar": "^1.5.3",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^3.0.1",
+    "react-year-month-picker": "^1.0.1",
+    "recompose": "^0.17.0",
+    "sass-loader": "^12.4.0",
+    "styled-components": "^5.3.3",
+    "underscore": "^1.12.1",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "concurrently": "^5.1.0",
+    "prettier": "^1.17.1",
+    "sass": "^1.50.0",
+    "typescript": "^3.5.1"
+  }
+}

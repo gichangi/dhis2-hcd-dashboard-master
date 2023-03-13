@@ -1,0 +1,284 @@
+[
+    {
+      "name": "BARINGO",
+      "dhis_id": "vvOK1BxTbet",
+      "longitude": 35.94646535,
+      "latitude": 0.6692519803
+    },
+    {
+      "name": "BOMET",
+      "dhis_id": "HMNARUV2CW4",
+      "longitude": 35.29859759,
+      "latitude": -0.7262945834
+    },
+    {
+      "name": "BUNGOMA",
+      "dhis_id": "KGHhQ5GLd4k",
+      "longitude": 34.64046088,
+      "latitude": 0.7492852396
+    },
+    {
+      "name": "BUSIA",
+      "dhis_id": "Tvf1zgVZ0K4",
+      "longitude": 34.19363149,
+      "latitude": 0.3874436776
+    },
+    {
+      "name": "ELEGEYO-MARAKWET",
+      "dhis_id": "MqnLxQBigG0",
+      "longitude": 35.53656315,
+      "latitude": 0.8022188109
+    },
+    {
+      "name": "EMBU",
+      "dhis_id": "PFu8alU2KWG",
+      "longitude": 37.62650133,
+      "latitude": -0.6039743776
+    },
+    {
+      "name": "GARISSA",
+      "dhis_id": "uyOrcHZBpW0",
+      "longitude": 40.19927854,
+      "latitude": -0.4889103448
+    },
+    {
+      "name": "HOMA BAY",
+      "dhis_id": "nK0A12Q7MvS",
+      "longitude": 34.35899687,
+      "latitude": -0.5428093942
+    },
+    {
+      "name": "ISIOLO",
+      "dhis_id": "bzOfj0iwfDH",
+      "longitude": 38.54215312,
+      "latitude": 1.010443078
+    },
+    {
+      "name": "KAJIADO",
+      "dhis_id": "Hsk1YV8kHkT",
+      "longitude": 36.90884219,
+      "latitude": -2.121383578
+    },
+    {
+      "name": "KAKAMEGA",
+      "dhis_id": "BjC1xL40gHo",
+      "longitude": 34.74451115,
+      "latitude": 0.403683464
+    },
+    {
+      "name": "KERICHO",
+      "dhis_id": "ihZsJ8alvtb",
+      "longitude": 35.31407001,
+      "latitude": -0.295732906
+    },
+    {
+      "name": "KIAMBU",
+      "dhis_id": "qKzosKQPl6G",
+      "longitude": 36.82356426,
+      "latitude": -1.068706066
+    },
+    {
+      "name": "KILIFI",
+      "dhis_id": "nrI2khZx3d0",
+      "longitude": 39.68667526,
+      "latitude": -3.175338286
+    },
+    {
+      "name": "KIRINYAGA",
+      "dhis_id": "Ulj33KBau7V",
+      "longitude": 37.31986811,
+      "latitude": -0.5247462962
+    },
+    {
+      "name": "KISII",
+      "dhis_id": "sPkRcDvhGWA",
+      "longitude": 34.77472298,
+      "latitude": -0.7746037572
+    },
+    {
+      "name": "KISUMU",
+      "dhis_id": "tAbBVBbueqD",
+      "longitude": 34.83520347,
+      "latitude": -0.1694586948
+    },
+    {
+      "name": "KITUI",
+      "dhis_id": "j8o6iO4Njsi",
+      "longitude": 38.40692102,
+      "latitude": -1.491038531
+    },
+    {
+      "name": "KWALE",
+      "dhis_id": "N7YETT3A9r1",
+      "longitude": 39.1904119,
+      "latitude": -4.183149527
+    },
+    {
+      "name": "LAIKIPIA",
+      "dhis_id": "xuFdFy6t9AH",
+      "longitude": 36.77172786,
+      "latitude": 0.3236041225
+    },
+    {
+      "name": "LAMU",
+      "dhis_id": "NjWSbQTwys4",
+      "longitude": 40.88286068,
+      "latitude": -2.078682544
+    },
+    {
+      "name": "MACHAKOS",
+      "dhis_id": "yhCUgGcCcOo",
+      "longitude": 37.41267603,
+      "latitude": -1.279512307
+    },
+    {
+      "name": "MAKUENI",
+      "dhis_id": "BoDytkJQ4Qi",
+      "longitude": 37.78824557,
+      "latitude": -2.1576841
+    },
+    {
+      "name": "MANDERA",
+      "dhis_id": "R6f9znhg37c",
+      "longitude": 40.73881017,
+      "latitude": 3.436469488
+    },
+    {
+      "name": "MARSABIT",
+      "dhis_id": "Eey8fT4Im3y",
+      "longitude": 37.56953611,
+      "latitude": 2.978658787
+    },
+    {
+      "name": "MERU",
+      "dhis_id": "Y52XNJ50hYb",
+      "longitude": 37.76403705,
+      "latitude": 0.1667792413
+    },
+    {
+      "name": "MIGORI",
+      "dhis_id": "fVra3Pwta0Q",
+      "longitude": 34.36334531,
+      "latitude": -0.9895368437
+    },
+    {
+      "name": "MOMBASA",
+      "dhis_id": "wsBsC6gjHvn",
+      "longitude": 39.65062669,
+      "latitude": -4.021250634
+    },
+    {
+      "name": "MURANG'A",
+      "dhis_id": "ahwTMNAJvrL",
+      "longitude": 37.03272252,
+      "latitude": -0.8095905365
+    },
+    {
+      "name": "NAIROBI",
+      "dhis_id": "jkG3zaihdSs",
+      "longitude": 36.86818927,
+      "latitude": -1.29341347
+    },
+    {
+      "name": "NAKURU",
+      "dhis_id": "ob6SxuRcqU4",
+      "longitude": 36.07847909,
+      "latitude": -0.4636754317
+    },
+    {
+      "name": "NANDI",
+      "dhis_id": "t0J75eHKxz5",
+      "longitude": 35.11048767,
+      "latitude": 0.1866888869
+    },
+    {
+      "name": "NAROK",
+      "dhis_id": "kqJ83J2D72s",
+      "longitude": 35.57632921,
+      "latitude": -1.254790332
+    },
+    {
+      "name": "NYAMIRA",
+      "dhis_id": "uepLTG8wGWJ",
+      "longitude": 34.96465956,
+      "latitude": -0.6427324001
+    },
+    {
+      "name": "NYANDARUA",
+      "dhis_id": "mYZacFNIB3h",
+      "longitude": 36.48286916,
+      "latitude": -0.3220778225
+    },
+    {
+      "name": "NYERI",
+      "dhis_id": "ptWVfaCIdVx",
+      "longitude": 36.95647813,
+      "latitude": -0.3429235894
+    },
+    {
+      "name": "SAMBURU",
+      "dhis_id": "o36zCRjSd4G",
+      "longitude": 37.11839407,
+      "latitude": 1.316854626
+    },
+    {
+      "name": "SIAYA",
+      "dhis_id": "u4t9H8XyU9P",
+      "longitude": 34.2476417,
+      "latitude": -0.06212988862
+    },
+    {
+      "name": "TAITA TAVETA",
+      "dhis_id": "QyGNX2DpR4h",
+      "longitude": 38.418602,
+      "latitude": -3.434733994
+    },
+    {
+      "name": "TANA RIVER",
+      "dhis_id": "JsH2bnvNt2d",
+      "longitude": 39.4178692,
+      "latitude": -1.526366604
+    },
+    {
+      "name": "THARAKA - NITHI",
+      "dhis_id": "T4urHM47nlm",
+      "longitude": 37.87029727,
+      "latitude": -0.2070612179
+    },
+    {
+      "name": "TRANS NZOIA",
+      "dhis_id": "mThvosEflAU",
+      "longitude": 34.95741998,
+      "latitude": 1.050954809
+    },
+    {
+      "name": "TURKANA",
+      "dhis_id": "kphDeKClFch",
+      "longitude": 35.43575846,
+      "latitude": 3.424849196
+    },
+    {
+      "name": "UASIN GISHU",
+      "dhis_id": "pZqQRRW7PHP",
+      "longitude": 35.32201167,
+      "latitude": 0.5260858916
+    },
+    {
+      "name": "VIHIGA",
+      "dhis_id": "sANMZ3lpqGs",
+      "longitude": 34.72232304,
+      "latitude": 0.07626579587
+    },
+    {
+      "name": "WAJIR",
+      "dhis_id": "CeLsrJOH0g9",
+      "longitude": 40.03498564,
+      "latitude": 1.808137624
+    },
+    {
+      "name": "WEST POKOT",
+      "dhis_id": "XWALbfAPa6n",
+      "longitude": 35.24384681,
+      "latitude": 1.740106171
+    }
+  ]

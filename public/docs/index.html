@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Technical Documentation - Health Commodities Dashboard</title>
+    <link rel="stylesheet" href="assets/css/docute.css">
+    <style>
+        header a:focus,
+        header a:active,
+        header a:hover{
+            color: var(--tip-color)
+        }
+    </style>
+  </head>
+  <body>
+    <div id="docute"></div>
+    <script src="assets/js/docute.js"></script>
+    <script>
+      new Docute({
+        target: '#docute',
+        layout: 'wide',
+        title: 'Technical Documentation',
+        // nav: [
+        //     { title: 'Home', link: '/' },
+        //     { title: 'GitHub', link: 'https://github.com/uonafya/hcd-dashboard' },
+        //     { title: 'BACK TO DHIS2', link: 'https://hiskenya.org' }
+        // ],
+        sidebar: [
+            {title: 'Introduction', link: '#introduction--description'},
+            {title: 'Purpose/SRS', link: '#purpose--srs'},
+            {title: 'Quick start', link: '#quick-start--development-setup-guide'},
+            {title: 'System Architecture', link: '#system-architecture', children: [
+                {title: 'Data-flow Model', link: '#data-flow-model'}, 
+                {title: 'File Structure', link: '#file-structure'}
+            ]},
+            {title: 'System UI', link: '#system-layout--ui'},
+            {title: 'Tech stack & environments', link: '#environments-technologies--stack-in-use', children: [
+                {title: 'Technology stack', link: '#tech-stack'},
+                {title: 'Environments', link: '#environments'}
+            ]},
+            {title: 'Deployment', link: '#environments'},
+            {title: 'Programs & Modularity', link: '#programs--modularity', children: [
+                {title: 'Malaria Program', link: '#malaria-program'},
+                {title: 'Family Planning', link: '#family-planning'},
+                {title: 'HIV', link: '#hiv'},
+                {title: 'Nutrition', link: '#nutrition'},
+                {title: 'Tuberculosis', link: '#tuberculosis'},
+                {title: 'EMMS', link: '#emms'}
+            ]},
+            {title: 'Appendix', link: '#appendix', children: [
+                {title: 'Abbreviations', link: '#abbreviations'},
+                {title: 'Resources', link: '#resources'}
+            ]}
+        ],
+        cssVariables: {
+            // accentColor: '#01579b',
+            // headerBackground: '#091e42',
+            // headerTextColor: '#fff',
+            // navLinkColor: '#fff',
+            headerHeight: '64px',
+            sidebarWidth: '225px'
+        }
+        })
+    </script>
+  </body>
+</html>
